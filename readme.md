@@ -15,4 +15,4 @@ Inspired by Michael Nielsen's "Neural Networks and Deep Learning" and the 3Blue1
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/neural-network-from-scratch.git
+   git clone https://github.com/rohitm16/neural-network-from-scratch.git
